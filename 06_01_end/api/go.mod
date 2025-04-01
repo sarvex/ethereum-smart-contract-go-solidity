@@ -7,7 +7,7 @@ toolchain go1.24.1
 require (
 	github.com/ethereum/go-ethereum v1.15.7
 	github.com/gin-gonic/gin v1.10.0
-	github.com/rs/zerolog v1.31.0
+	github.com/rs/zerolog v1.34.0
 )
 
 require (
