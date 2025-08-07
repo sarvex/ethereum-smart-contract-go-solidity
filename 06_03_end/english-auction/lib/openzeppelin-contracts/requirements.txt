@@ -1,1 +1,1 @@
-certora-cli==7.31.0
+certora-cli==7.31.1
