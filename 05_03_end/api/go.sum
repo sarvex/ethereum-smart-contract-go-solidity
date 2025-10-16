@@ -117,6 +117,8 @@ github.com/ethereum/go-ethereum v1.16.3 h1:nDoBSrmsrPbrDIVLTkDQCy1U9KdHN+F2PzvMb
 github.com/ethereum/go-ethereum v1.16.3/go.mod h1:Lrsc6bt9Gm9RyvhfFK53vboCia8kpF9nv+2Ukntnl+8=
 github.com/ethereum/go-ethereum v1.16.4 h1:H6dU0r2p/amA7cYg6zyG9Nt2JrKKH6oX2utfcqrSpkQ=
 github.com/ethereum/go-ethereum v1.16.4/go.mod h1:P7551slMFbjn2zOQaKrJShZVN/d8bGxp4/I6yZVlb5w=
+github.com/ethereum/go-ethereum v1.16.5 h1:GZI995PZkzP7ySCxEFaOPzS8+bd8NldE//1qvQDQpe0=
+github.com/ethereum/go-ethereum v1.16.5/go.mod h1:kId9vOtlYg3PZk9VwKbGlQmSACB5ESPTBGT+M9zjmok=
 github.com/ethereum/go-verkle v0.2.2 h1:I2W0WjnrFUIzzVPwm8ykY+7pL2d4VhlsePn4j7cnFk8=
 github.com/ethereum/go-verkle v0.2.2/go.mod h1:M3b90YRnzqKyyzBEWJGqj8Qff4IDeXnzFw0P9bFw3uk=
 github.com/fjl/memsize v0.0.2 h1:27txuSD9or+NZlnOWdKUxeBzTAUkWCVh+4Gf2dWFOzA=

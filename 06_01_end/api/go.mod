@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.25.3
 
 require (
-	github.com/ethereum/go-ethereum v1.16.4
+	github.com/ethereum/go-ethereum v1.16.5
 	github.com/gin-gonic/gin v1.11.0
 	github.com/rs/zerolog v1.34.0
 )
