@@ -1,6 +1,6 @@
 module smart-contract
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/bits-and-blooms/bitset v1.20.0 // indirect
@@ -15,8 +15,8 @@ require (
 	github.com/holiman/uint256 v1.3.2 // indirect
 	github.com/mmcloughlin/addchain v0.4.0 // indirect
 	github.com/supranational/blst v0.3.16-0.20250831170142-f48500c1fdbe // indirect
-	golang.org/x/crypto v0.44.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.39.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )

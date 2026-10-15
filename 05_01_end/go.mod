@@ -1,6 +1,6 @@
 module smart-contract
 
-go 1.24.0
+go 1.25.0
 
 require github.com/ethereum/go-ethereum v1.17.0
 
@@ -36,11 +36,11 @@ require (
 	go.opentelemetry.io/otel v1.41.0 // indirect
 	go.opentelemetry.io/otel/metric v1.41.0 // indirect
 	go.opentelemetry.io/otel/trace v1.41.0 // indirect
-	golang.org/x/crypto v0.44.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
 	golang.org/x/exp v0.0.0-20230810033253-352e893a4cad // indirect
 	golang.org/x/mod v0.29.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.39.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/tools v0.38.0 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
