@@ -1,6 +1,6 @@
 module smart-contract
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/bits-and-blooms/bitset v1.20.0 // indirect
@@ -10,13 +10,13 @@ require (
 	github.com/crate-crypto/go-kzg-4844 v0.3.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
 	github.com/ethereum/c-kzg-4844 v0.3.1 // indirect
-	github.com/ethereum/go-ethereum v1.13.0 // indirect
+	github.com/ethereum/go-ethereum v1.17.0 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
-	github.com/holiman/uint256 v1.2.3 // indirect
+	github.com/holiman/uint256 v1.3.2 // indirect
 	github.com/mmcloughlin/addchain v0.4.0 // indirect
-	github.com/supranational/blst v0.3.11 // indirect
-	golang.org/x/crypto v0.35.0 // indirect
-	golang.org/x/sync v0.11.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
+	github.com/supranational/blst v0.3.16-0.20250831170142-f48500c1fdbe // indirect
+	golang.org/x/crypto v0.44.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
